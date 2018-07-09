@@ -18,3 +18,9 @@ Version: 0.1
 .entry-content {
     margin-left: 202px;
 }
+.widget > .textwidget > ul > li {
+    border-bottom: 1px solid #EEE;
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
