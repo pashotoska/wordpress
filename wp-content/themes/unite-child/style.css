@@ -7,3 +7,14 @@ Template: unite
 Version: 0.1 
 */
 @import url("../unite/style.css");
+
+.films.type-films .thumbnail{
+    float: left;
+    margin-right: 20px;
+}
+.taxonimies {
+    margin: 20px 0px;
+}
+.entry-content {
+    margin-left: 202px;
+}
